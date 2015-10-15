@@ -1,0 +1,2 @@
+sensor_pub_sub
+-DCATKIN_DEVEL_PREFIX=/home/jpai/Desktop/sensors/devel -DCMAKE_INSTALL_PREFIX=/home/jpai/Desktop/sensors/install -G Unix Makefiles

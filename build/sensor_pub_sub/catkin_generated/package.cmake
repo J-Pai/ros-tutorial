@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "sensor_pub_sub")
+set(sensor_pub_sub_MAINTAINER "jpai <jpai@todo.todo>")
+set(sensor_pub_sub_DEPRECATED "")
+set(sensor_pub_sub_VERSION "0.0.0")
+set(sensor_pub_sub_BUILD_DEPENDS "message_generation" "roscpp" "std_msgs")
+set(sensor_pub_sub_RUN_DEPENDS "message_runtime" "roscpp" "std_msgs")
+set(sensor_pub_sub_BUILDTOOL_DEPENDS "catkin")

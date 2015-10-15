@@ -1,0 +1,10 @@
+/home/jpai/Desktop/sensors/install/_setup_util.py
+/home/jpai/Desktop/sensors/install/env.sh
+/home/jpai/Desktop/sensors/install/setup.bash
+/home/jpai/Desktop/sensors/install/setup.sh
+/home/jpai/Desktop/sensors/install/setup.zsh
+/home/jpai/Desktop/sensors/install/.rosinstall
+/home/jpai/Desktop/sensors/install/lib/pkgconfig/sensor_pub_sub.pc
+/home/jpai/Desktop/sensors/install/share/sensor_pub_sub/cmake/sensor_pub_subConfig.cmake
+/home/jpai/Desktop/sensors/install/share/sensor_pub_sub/cmake/sensor_pub_subConfig-version.cmake
+/home/jpai/Desktop/sensors/install/share/sensor_pub_sub/package.xml

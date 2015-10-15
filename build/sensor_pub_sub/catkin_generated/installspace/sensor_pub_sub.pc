@@ -1,0 +1,8 @@
+prefix=/home/jpai/Desktop/sensors/install
+
+Name: sensor_pub_sub
+Description: Description of sensor_pub_sub
+Version: 0.0.0
+Cflags: -I/home/jpai/Desktop/sensors/install/include
+Libs: -L/home/jpai/Desktop/sensors/install/lib 
+Requires: roscpp std_msgs message_runtime
